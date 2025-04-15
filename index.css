@@ -418,6 +418,9 @@ section{
     .contact-form{
         flex-direction: column;
     }
+    .projects{
+        padding:0%;
+    }
   }
   
 /*.contact-form {
